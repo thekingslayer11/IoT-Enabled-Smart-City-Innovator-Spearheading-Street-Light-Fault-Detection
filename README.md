@@ -27,11 +27,11 @@ Upload the code contained in this sketch on to your board
 Folder structure
 
 ....
- sketch123                => Arduino sketch folder
-  ├── sketch123.ino       => main Arduino file
-  ├── schematics.png      => (optional) an image of the required schematics
-  ├── layout.png          => (optional) an image of the layout
-  └── README.md        => this file
+ sketch123                => Arduino sketch folder<br>
+  ├── sketch123.ino       => main Arduino file<br>
+  ├── schematics.png      => (optional) an image of the required schematics<br>
+  ├── layout.png          => (optional) an image of the layout<br>
+  └── README.md        => this file<br>
 ....
 
 Contributing
@@ -40,15 +40,15 @@ To contribute to this project please contact: Me
 BOM
 
 |===
-| ID | Part name                                            | Part number           |  Quantity |
-| R1 | 10k Resistor                                         |          -            |    6      | 
-| L1 | White LED                                            |          -            |    6      | 
-| A1 | Arduino UNO                                          |         R3            |    1      |  
-| E1 | ESP                                                  |         12F           |    1      |
-| S1 | Digital LDR Module                                   |          -            |    6      |
-| C1 | Tiny RTC Real Time Clock                             | DS1307 I2C IIC Module |    1      |
-| S2 | PIR Motion Sensor                                    |         HCSR501       |    2      |
-| G1 | GPRS GSM Module Core Board Quad-band TTL Serial Port |         SIM800L       |    1      |
+| ID | Part name                                            | Part number           |  Quantity |<br>
+| R1 | 10k Resistor                                         |          -            |    6      |<br>
+| L1 | White LED                                            |          -            |    6      |<br> 
+| A1 | Arduino UNO                                          |         R3            |    1      |<br>  
+| E1 | ESP                                                  |         12F           |    1      |<br>
+| S1 | Digital LDR Module                                   |          -            |    6      |<br>
+| C1 | Tiny RTC Real Time Clock                             | DS1307 I2C IIC Module |    1      |<br>
+| S2 | PIR Motion Sensor                                    |         HCSR501       |    2      |<br>
+| G1 | GPRS GSM Module Core Board Quad-band TTL Serial Port |         SIM800L       |    1      |<br>
 
 Help
 This document is written in the _AsciiDoc_ format, a markup language to describe documents. 
