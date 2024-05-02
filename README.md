@@ -25,22 +25,20 @@ Step 3: Load the code
 Upload the code contained in this sketch on to your board
 
 Folder structure
+<pre>
 
-....
- sketch123                => Arduino sketch folder<br>
-  ├── sketch123.ino       => main Arduino file<br>
-  ├── schematics.png      => (optional) an image of the required schematics<br>
-  ├── layout.png          => (optional) an image of the layout<br>
-  └── README.md        => this file<br>
-....
-
+ sketch                   => Arduino sketch folder<br>
+  ├── sketches            => main files<br>
+  ├── schematics.png      => image of the required schematics<br>
+  ├── layout.png          => image of the layout<br>
+  └── README.md           => this file<br>
+</pre>
 Contributing
-To contribute to this project please contact: Me
+To contribute to this project please contact: Me 
 
 BOM
-
-|===
-| ID | Part name                                            | Part number           |  Quantity |<br>
+<pre>
+| ID | Part name                                            |     Part number       |  Quantity |<br>
 | R1 | 10k Resistor                                         |          -            |    6      |<br>
 | L1 | White LED                                            |          -            |    6      |<br> 
 | A1 | Arduino UNO                                          |         R3            |    1      |<br>  
@@ -49,7 +47,7 @@ BOM
 | C1 | Tiny RTC Real Time Clock                             | DS1307 I2C IIC Module |    1      |<br>
 | S2 | PIR Motion Sensor                                    |         HCSR501       |    2      |<br>
 | G1 | GPRS GSM Module Core Board Quad-band TTL Serial Port |         SIM800L       |    1      |<br>
-
+</pre>
 Help
 This document is written in the _AsciiDoc_ format, a markup language to describe documents. 
 If you need help you can search the http://www.methods.co.nz/asciidoc[AsciiDoc homepage]
