@@ -9,8 +9,6 @@ Project: Streetlight Fault Detection using IoT
 
 Desc:
 Developed a comprehensive system for detecting and reporting faults in street lights, including bulb burnouts, electrical issues, and physical damage. The system should be able to associate each fault with the unique ID of the respective street light for efficient maintenance and repair. The location of the damaged streetlight along with the timestamp will be sent to the concerned authority.
-![image](https://github.com/thekingslayer11/IoT-Enabled-Smart-City-Innovator-Spearheading-Street-Light-Fault-Detection/assets/93860728/3f825d2b-da22-405f-9e99-dbbb753372bc)
-
 
 Step 1: Installation
 
