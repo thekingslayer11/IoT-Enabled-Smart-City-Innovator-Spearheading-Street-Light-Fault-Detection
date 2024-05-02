@@ -1,9 +1,9 @@
 # IoT-Enabled-Smart-City-Innovator-Spearheading-Street-Light-Fault-Detection
-:Author: MD Ashif Hussain
-:Email: ashifhussain609@gmail.com
-:Date: 13/04/2024
-:Revision: version#
-:License: Public Domain
+Author MD Ashif Hussain<br>
+Email: ashifhussain609@gmail.com
+Date: 13/04/2024
+Revision: version#
+License: Public Domain
 
 = Project: Streetlight Fault Detection using IoT
 
